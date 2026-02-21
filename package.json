@@ -2,6 +2,7 @@
   "name": "focusflow",
   "private": true,
   "version": "1.0.0",
+  "homepage": "https://dhruv-000.github.io/focusflow-productivity",
   "type": "module",
   "scripts": {
     "dev": "vite",
